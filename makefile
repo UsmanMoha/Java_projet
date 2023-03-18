@@ -4,7 +4,7 @@ compile:
 
 run: 
 
-	@java -cp build/ LanceUnTour ${arg} ${args}
+	@java -cp build/ 
 
 clean:
 
